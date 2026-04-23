@@ -1,0 +1,9 @@
+{
+  "name": "wdf-project",
+  "version": "1.0.0",
+  "description": "Basic Web Development Project",
+  "main": "script.js",
+  "scripts": {
+    "start": "live-server"
+  }
+}
